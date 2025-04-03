@@ -7,24 +7,14 @@
   <img src="https://komarev.com/ghpvc/?username=sariyan-0&label=Profile+Views&color=0e75b6&style=flat-square" alt="sariyan-0" />
 </p>
 
-<h1 align="center">Hey 👋, I'm sariyan0</h1>
-<p align="center">
-  <i>Cloud enthusiast ☁️ | Code addict 💻 | Design lover 🎨</i>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sariyan0&label=Profile%20views&color=0e75b6&style=flat" alt="sariyan0" />
-</p>
-
----
-
-### 🧠 About Me
 
 - 🔭 Currently building: **Prism** – a next-gen student companion app.  
 - 🌱 Learning: Flutter, Firebase, Clean Architecture.  
 - 👨‍💻 Most used techs: JavaScript · Flutter · Firebase · Node.js  
 - 🎯 Goal: To make school apps less boring and way more useful.  
-- 🎧 Fun fact: I drop music and dev projects with the same passion 🎵
+
+- Gradle takes longer to build than GTA 6
 
 ---
 
@@ -43,9 +33,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sariyan0&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sariyan-0&show_icons=true&theme=radical" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sariyan0&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sariyan-0&theme=radical" />
 </p>
 
 ---
