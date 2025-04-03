@@ -34,9 +34,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sariyan0&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sariyan-0&show_icons=true&theme=radical" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sariyan0&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sariyan-0&theme=radical" />
 </p>
 
 ---
