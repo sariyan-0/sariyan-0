@@ -10,8 +10,8 @@
 
 
 - 🔭 Currently building: **Prism** – a next-gen student companion app.  
-- 🌱 Learning: Flutter, Firebase, Clean Architecture.  
-- 👨‍💻 Most used techs: JavaScript · Flutter · Firebase · Node.js  
+- 🌱 Learning: HTML, JavaScript, Clean Architecture.  
+- 👨‍💻 Most used techs: JavaScript · Java . Python · Node.js  
 - 🎯 Goal: To make school apps less boring and way more useful.  
 
 - Gradle takes longer to build than GTA 6
