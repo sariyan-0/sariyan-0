@@ -10,20 +10,19 @@
 
 
 - 🔭 Currently building: **Prism** – a next-gen student companion app.  
-- 🌱 Learning: HTML, JavaScript, Clean Architecture.  
-- 👨‍💻 Most used techs: JavaScript · Java . Python · Node.js  
+- 🌱 Learning: HTML, Dart, Clean Architecture.  
+- 👨‍💻 Most used techs: JavaScript · Flutter . Python · Node.js  
 - 🎯 Goal: To make school apps less boring and way more useful.  
 
 - Gradle takes longer to build than GTA 6
 
 ---
 
-### 🔥 Languages & Technologies
+### 🔥 Languages & Technologies I Have Delt With
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
-![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
@@ -48,8 +47,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sariyan-0&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sariyan-0&theme=radical" />
 </p>
 
 ---
@@ -57,8 +54,8 @@
 ### 🔗 Connect with me
 
 <p align="center">
-  <a href="https://instagram.com/sariyan0" target="_blank">Instagram</a> •
-  <a href="https://twitter.com/sariyan0" target="_blank">Twitter</a> •
-  <a href="mailto:sariyan0@gmail.com">Email</a>
+  <a href="https://instagram.com/powersof_0" target="_blank">Instagram</a> •
+  <a href="https://twitter.com/powersof_0" target="_blank">Twitter</a> •
+  <a href="mailto:contact@powersofzero.com">Email</a>
 </p>
 
