@@ -9,8 +9,8 @@
 
 
 
-- 🔭 Currently building: **Prism** – a next-gen student companion app.  
-- 🌱 Learning: HTML, Dart, Clean Architecture.  
+- 🔭 Currently building: **Prism Go* – a student companion app.  
+- 🌱 Learning: HTML, Dart, Python, JavaScript, Clean Architecture.  
 - 👨‍💻 Most used techs: JavaScript · Flutter . Python · Node.js  
 - 🎯 Goal: To make school apps less boring and way more useful.  
 
