@@ -12,7 +12,7 @@
 - 🔭 Currently building: **Prism Go* – a student companion app.  
 - 🌱 Learning: HTML, Dart, Python, Clean Architecture.  
 - 👨‍💻 Most used techs: Flutter . Python.  
-- 🎯 Goal: To make school apps less boring and way more useful.  
+- 🎯 Goal: To make apps less boring and way more useful.  
 
 - Gradle takes longer to build than GTA 6
 
