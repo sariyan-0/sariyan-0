@@ -11,7 +11,7 @@
 
 - 🔭 Currently building: **Prism Go* – a student companion app.  
 - 🌱 Learning: HTML, Dart, Python, JavaScript, Clean Architecture.  
-- 👨‍💻 Most used techs: JavaScript · Flutter . Python · Node.js  
+- 👨‍💻 Most used techs: Flutter . Python.  
 - 🎯 Goal: To make school apps less boring and way more useful.  
 
 - Gradle takes longer to build than GTA 6
