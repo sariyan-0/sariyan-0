@@ -54,8 +54,8 @@
 ### 🔗 Connect with me
 
 <p align="center">
-  <a href="https://instagram.com/powersof_0" target="_blank">Instagram</a> •
-  <a href="https://twitter.com/powersof_0" target="_blank">Twitter</a> •
-  <a href="mailto:contact@powersofzero.com">Email</a>
+  <a href="https://www.instagram.com/powersofzer0/?hl=en" target="_blank">Instagram</a> •
+  <a href="https://twitter.com/powersofzer0" target="_blank">Twitter</a> •
+  <a href="mailto:ari@powersofzero.com">Email</a>
 </p>
 
