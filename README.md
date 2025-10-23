@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/powersofzer0/?hl=en" target="_blank">Instagram</a> •
-  <a href="https://twitter.com/powersofzer0" target="_blank">Twitter</a> •
+  <a href="https://x.com/powersofzer0" target="_blank">Twitter</a> •
   <a href="mailto:ari@powersofzero.com">Email</a>
 </p>
 
