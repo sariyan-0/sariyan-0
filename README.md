@@ -9,7 +9,7 @@
 
 
 
-- 🔭 Currently not building Prism Go.  
+- 🔭 Currently building Prism Go.  
 - 🌱 Learning: Dart, Python, Java, and clean Architecture.  
 - 👨‍💻 Most used techs: Flutter . Python.  
 - 🎯 Goal: To make problems less problematic.  
